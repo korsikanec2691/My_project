@@ -1,0 +1,124 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+.header {
+}
+.top__header {
+}
+.logo__link {
+}
+.logo__img-white {
+}
+.header__title {
+}
+.header__desc {
+}
+.header__btn {
+}
+.menu__header {
+}
+.container {
+}
+.logo__img-black {
+}
+.menu__list {
+}
+.menu__item {
+}
+.menu__link {
+}
+.about {
+}
+.about__title {
+}
+.about__content {
+}
+.content__text {
+}
+.content__subtitle {
+}
+.content__desc {
+}
+.content__img {
+}
+.content__cards {
+}
+.content__img-title {
+}
+.image__cards {
+}
+.services {
+}
+.services__top {
+}
+.top__title {
+}
+.top__text {
+}
+.top__btn {
+}
+.btn {
+}
+.services__cards {
+}
+.services__list {
+}
+.services__item {
+}
+.services__img {
+}
+.services__title {
+}
+.services__desc {
+}
+.work {
+}
+.work__title {
+}
+.work__btn {
+}
+.footer {
+}
+.footer__top {
+}
+.footer__form {
+}
+.footer__imput {
+}
+.footer__btn {
+}
+.footer__middle {
+}
+.footer__company {
+}
+.middle__title {
+}
+.company__link {
+}
+.footer__lins {
+}
+.links__list {
+}
+.links__item {
+}
+.footer__contacts {
+}
+.contacts__title {
+}
+.contacts {
+}
+.footer__botom {
+}
+.footer__copu {
+}
